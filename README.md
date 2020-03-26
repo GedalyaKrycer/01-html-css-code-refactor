@@ -25,12 +25,8 @@ In this project I reviewed an HTML and CSS files, looking for oppurtinies to imp
 
 10. Replaced the `<div>` elements within the main Service sections with `<section>` elements. 
 
-11. Add 
+11. Moved the `.hero` class into a span element and gave it an `aria-label=""` and `role=""` so it could be read by screen readers. 
 
+12. Changed the `.footer` class and `<div>` to a `<footer>` element and the corresponding CSS selector.
 
-
-
-
- Changed the `.footer` class and `<div>` to a `<footer>` element and CSS selector.
-
- Updated the copyright in the footer to be for 2020. 
+13. Updated the copyright in the footer to be for 2020. 
