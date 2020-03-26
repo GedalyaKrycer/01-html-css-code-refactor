@@ -36,3 +36,5 @@ In this project I reviewed an HTML and CSS files, looking for oppurtinies to imp
 15. Anchor link on line 17 did not go anywhere. Fixed this by changing the `class=""` attribute on line 36 to an `id=""` attribute.
 
 16. Consolidated the `class=""` and `id=""` attributes on lines 43 and 50 to be `id=""` attributes only. Cleaning up the redundancy in html and css code. 
+
+17. Ran HTML & CSS validators with no errors and through [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc)
