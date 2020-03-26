@@ -30,3 +30,5 @@ In this project I reviewed an HTML and CSS files, looking for oppurtinies to imp
 12. Changed the `.footer` class and `<div>` to a `<footer>` element and the corresponding CSS selector.
 
 13. Updated the copyright in the footer to be for 2020. 
+
+14. Reordered the CSS selectors for the 3 main **Services** section, placing them above the **Benefits** CSS selectors. This follows a similar order structure of the html file, allowing for a quicker read by a new developer. 
