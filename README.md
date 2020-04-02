@@ -5,7 +5,7 @@ In this project I reviewed an HTML and CSS files, looking for oppurtinies to imp
 
 ### Items That Were Updated 
 
-1. Made the `<title>` element a bit more descriptive
+1. Made the `<title>` element more descriptive
 
 2. Changed the `<div>` with the `.header` class into a `<header>` html element 
 
