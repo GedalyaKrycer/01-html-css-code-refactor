@@ -1,4 +1,4 @@
-# 02-Homework 
+# 01 HTML CSS Git: Code Refactor
 
 ## Summary 
 In this project I reviewed an HTML and CSS files, looking for oppurtinies to improve the code for accessibility and semantic best practices. 
