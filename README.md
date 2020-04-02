@@ -3,7 +3,7 @@
 ## Summary 
 In this project I reviewed an HTML and CSS files, looking for oppurtinies to improve the code for accessibility and semantic best practices. 
 
-### Items That Were Updated
+### Items That Were Updated 
 
 1. Made the `<title>` element more descriptive
 
